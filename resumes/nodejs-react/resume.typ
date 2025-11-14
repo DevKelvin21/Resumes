@@ -8,7 +8,7 @@
   name: [Kelvin Rojas],
   address: [El Salvador],
   lastupdated: "true",
-  date: [2025-01-13],
+  date: [2025-11-14],
   pagecount: "false",
   contacts: (
     (text: "linkedin.com/in/kelvin-rojas-chilin", link: "https://www.linkedin.com/in/kelvin-rojas-chilin/"),
@@ -20,7 +20,7 @@
 // about
 #section[About Me]
 #descript[
-Senior Full-Stack Engineer with 4+ years of experience architecting and delivering scalable, cloud-native applications using Node.js, TypeScript, React, and modern cloud platforms. Proven expertise in designing distributed systems, implementing microservices architectures with event-driven patterns, and optimizing CI/CD pipelines. Strong advocate for SOLID principles, Clean Code, and test-driven development. Experienced in mentoring junior developers and driving technical decisions that improve system performance, reduce infrastructure costs, and enhance team productivity. Advanced English proficiency for technical collaboration.
+Senior Full-Stack Engineer with 4+ years architecting scalable, cloud-native applications using Node.js, TypeScript, and React. Proven expertise in microservices architectures, distributed systems, and CI/CD optimization. Strong advocate for SOLID principles, Clean Code, and TDD. Experienced in mentoring developers and driving technical decisions that improve performance and reduce costs.
 ]
 #sectionsep
 
@@ -32,11 +32,10 @@ Senior Full-Stack Engineer with 4+ years of experience architecting and deliveri
   location: "Remote",
   date: "Jan 2025 - Present",
   description: [
-    - Architected and modernized multi-frontend systems (React & Angular) by designing reusable, modular UI component libraries following SOLID principles and component-driven architecture, reducing load times by 25%.
-    - Optimized MySQL database schemas and complex queries using ORM best practices (TypeORM/Sequelize patterns), improving data retrieval performance by 20% for 3,000+ daily users.
-    - Led integration of Google Cloud services (Cloud Auth, Pub/Sub, Realtime Database) implementing event-driven patterns to enhance scalability and security for distributed systems.
-    - Integrated AWS CDK and cloud services for authentication, content delivery, and automated deployment pipelines.
-    - Mentored junior developers on React performance optimization, state management patterns (Redux), and modern TypeScript best practices.
+    - Architected reusable UI component libraries for React & Angular following SOLID principles, reducing load times by 25%.
+    - Optimized MySQL schemas and queries using ORM best practices (TypeORM/Sequelize), improving performance by 20% for 3,000+ daily users.
+    - Integrated Google Cloud (Pub/Sub, Realtime Database) and AWS CDK for authentication, content delivery, and automated deployments.
+    - Mentored developers on React optimization, state management (Redux), and TypeScript best practices.
   ],
 )
 #job(
@@ -45,11 +44,10 @@ Senior Full-Stack Engineer with 4+ years of experience architecting and deliveri
   location: "Remote",
   date: "Jun 2023 - Dec 2024",
   description: [
-    - Architected and migrated legacy systems to modern frameworks following clean architecture principles, implementing dependency injection, repository pattern, and ORM for data access, resulting in 10% improvement in system uptime.
-    - Led migration of legacy AngularJS modules to modern Angular 17 and React, refactoring monolithic code into maintainable, testable components with 30% reduction in load times.
-    - *Championed Test-Driven Development (TDD)* practices across the team, implementing automated test suites with Jest and React Testing Library, cutting QA defect rate by 30% and improving release stability.
-    - Designed and implemented CI/CD pipelines with GitHub Actions for automated builds, tests, and multi-environment deployments following DevOps best practices.
-    - Conducted code reviews focusing on SOLID principles, clean code standards, and architectural improvements, mentoring team members on modern JavaScript/TypeScript and React best practices.
+    - Migrated legacy systems to modern frameworks using clean architecture, dependency injection, and ORM patterns, improving uptime by 10%.
+    - Led AngularJS-to-React/Angular 17 migration, refactoring monolithic code into testable components with 30% faster load times.
+    - Championed TDD with Jest and React Testing Library, reducing QA defects by 30%.
+    - Implemented CI/CD pipelines with GitHub Actions for automated multi-environment deployments.
   ],
 )
 #job(
@@ -58,32 +56,30 @@ Senior Full-Stack Engineer with 4+ years of experience architecting and deliveri
   location: "Remote",
   date: "Nov 2022 - May 2023",
   description: [
-    - *Designed and implemented microservices architecture on GCP* using Node.js/Nest.js and event-driven patterns with Pub/Sub, reducing infrastructure costs by 25% while improving scalability for distributed systems.
-    - Architected distributed system integration between Five9 telephony and multiple CRM platforms via RESTful APIs, implementing retry logic, circuit breakers, and error handling that improved call handling efficiency by 15%.
-    - Built real-time analytics dashboards using React with optimized data fetching patterns, caching strategies, and reusable hooks that automated reporting and saved 40% of manual effort.
-    - Applied SOLID principles and separation of concerns across microservices, ensuring maintainability, testability, and adherence to clean code standards.
+    - Designed microservices architecture on GCP using Node.js/Nest.js with Pub/Sub, reducing infrastructure costs by 25%.
+    - Integrated Five9 telephony with CRM platforms via RESTful APIs, implementing circuit breakers and retry logic that improved efficiency by 15%.
+    - Built real-time React dashboards with optimized data fetching and caching, automating reporting and saving 40% manual effort.
   ],
 )
 #job(
-  position: "Junior Web Developer",
+  position: "Web Developer",
   institution: [IBG America LLC],
   location: "Santa Ana, El Salvador",
   date: "Jun 2022 - Oct 2022",
   description: [
-    - Developed internal automation tools in React with TypeScript, implementing reusable component patterns following SOLID principles to streamline inventory and reporting workflows.
-    - *Created lightweight APIs in Node.js* to synchronize ERP systems with QuickBooks Online, implementing proper error handling, validation, and data integrity patterns.
-    - Wrote optimized SQL queries and maintained company portals, supporting ad-hoc reporting requirements for management decision-making.
+    - Built React/TypeScript automation tools with reusable components to streamline inventory and reporting workflows.
+    - Created Node.js APIs to synchronize ERP with QuickBooks Online, implementing error handling and data validation.
+    - Optimized SQL queries and maintained company portals for ad-hoc reporting.
   ],
 )
 #job(
   position: "UI Designer and Frontend Developer",
   institution: [Freelance],
   location: "Remote",
-  date: "Nov 2021 - Dec 2022",
+  date: "Nov 2020 - May 2022",
   description: [
-    - Delivered responsive web applications using Angular and Vue.js, implementing mobile-first design patterns and ensuring cross-device compatibility.
-    - Containerized and deployed frontend applications using Docker and Kubernetes on GCP, serving 500+ active users with 99.9% uptime.
-    - Translated Figma designs into production-ready code with pixel-perfect accuracy, following component-driven development practices.
+    - Delivered responsive Angular and Vue.js applications with mobile-first design and cross-device compatibility.
+    - Deployed containerized applications using Docker/Kubernetes on GCP, serving 500+ users with 99.9% uptime.
   ],
 )
 #sectionsep
